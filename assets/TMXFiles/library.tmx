@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="20" height="20" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="floor" tilewidth="32" tileheight="32" margin="19">
+  <image source="../images/indoor_free_tileset__by_thegreatblaid-d5x95zt.png" trans="ffffff" width="624" height="304"/>
+ </tileset>
+ <tileset firstgid="145" name="library" tilewidth="31" tileheight="64">
+  <image source="../images/library.png" trans="ffffff" width="318" height="798"/>
+ </tileset>
+ <tileset firstgid="265" name="library_tiles" tilewidth="31" tileheight="64">
+  <image source="../images/library_tiles.png" trans="ffffff" width="768" height="512"/>
+ </tileset>
+ <tileset firstgid="457" name="tables" tilewidth="32" tileheight="33">
+  <image source="../images/tables.png" trans="ffffff" width="318" height="798"/>
+ </tileset>
+ <tileset firstgid="673" name="door" tilewidth="32" tileheight="32">
+  <image source="../images/door.png" trans="ffffff" width="318" height="798"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJybwMDAMAEHdgNiEyTshkctMjahEkY3z41MPGreqHmj5o2aRyvz3HCYh47d8IgT4z5qlafUxAD9nnoZ
+  </data>
+ </layer>
+ <layer name="library" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBh6YB0eOU5GBgYuIOYGYiUgVmbErh8bpsQ9tDKPgYEys0BgIhBPAuLJaOwpFLgP3V243KgFDH9tINYBYl0g1gNifbQ4oXb4kQKIcR+1wVIgXgbEy4F4BZQPwhOR1JDi/4EMv+EANgDxRiDehMZeP5COGiIAAAplJkM=
+  </data>
+ </layer>
+ <layer name="up" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYKA+uMaIiu9DaWLBLSYGhttMCP4VoN67jBAaGRMLHgPNesJEWN0oGAWDEdxjxE6TCy4xYqfJBdR232AGJ4F+OwXFZ4D4NJR9mop+Ri//KAW0LP8AHuoeZg==
+  </data>
+ </layer>
+</map>

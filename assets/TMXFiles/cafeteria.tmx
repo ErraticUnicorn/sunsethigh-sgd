@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="30" height="20" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="cafeteria" tilewidth="32" tileheight="32">
+  <image source="../images/cafeteria.png" trans="ffffff" width="320" height="320"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzjZmBg4B6BmJFOeDDaywrE7FDMSiN7sckNpL2CUExPe+kRv6P24k5X1BAfrPZiS8/UEB+M8UsPe4dC+UyuOCMDZvzispea6QqfvSMFAwANtwsr
+  </data>
+ </layer>
+ <layer name="objects" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFhIDoANkrP0D2jjT/agIxM5mYEmAMxLxk4lEwCkbBKCAGsA+QvYIDZO9gAgCCRgG9
+  </data>
+ </layer>
+ <layer name="food" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFgxWo0th85QGwVxKPHK39q0tj80fBwAJ9EtTiSofKeORIMQcEcLkHmzgpdhIyHxvAl/ZH88XgBLjKZ2xpBZdaQnLoAFeawpdGSEmHIw0AAOTvA4M=
+  </data>
+ </layer>
+</map>

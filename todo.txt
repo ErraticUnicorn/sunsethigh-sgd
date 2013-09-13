@@ -1,0 +1,8 @@
+ToDo:
+
+- Walls
+- Journal
+- Other NPCs
+- Music
+- Fix Dialogue (new lines so it fits on screen) + add new dialogue
+- Restarting game + Start screen
